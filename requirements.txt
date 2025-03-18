@@ -1,0 +1,8 @@
+numpy
+matplotlib
+torch
+torchvision
+deap
+pygame
+seaborn
+pandas
