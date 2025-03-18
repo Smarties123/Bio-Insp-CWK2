@@ -25,7 +25,7 @@ A Python project exploring how simple neural architectures can evolve and adapt 
 ### Setup & Dependencies
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/Smarties123/Bio-Insp-CWK2.git
 cd your-repo-name
 
 # Install dependencies
